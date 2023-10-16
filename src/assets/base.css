@@ -1,0 +1,14 @@
+:root {
+  --darkBlue: #2b3945;
+  --veryDarkBlueDark: #202c37;
+  --veryDarkBlueLight: #111517;
+  --darkGray: #858585;
+  --veryLightGray: #fafafa;
+  --white: #ffffff;
+}
+/* // darkBlue: '#2b3945', //(Dark Mode Elements)
+// veryDarkBlueDark :  '#202c37', //(Dark Mode Background)
+// veryDarkBlueLight : '#111517' , //(Light Mode Text)
+// darkGray : '#858585',  //(Light Mode Input)
+// veryLightGray : '#fafafa', //(Light Mode Background)
+// white:'#ffffff' , //(Dark Mode Text & Light Mode Elements) */
